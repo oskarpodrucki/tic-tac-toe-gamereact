@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# tic-tac-toe-gamereact
 
 to end: https://react.dev/learn/tutorial-tic-tac-toe#adding-time-travel
 
