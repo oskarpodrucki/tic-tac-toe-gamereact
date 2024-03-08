@@ -1,2 +1,6 @@
-# tic-tac-toe-gamereact
-tic tac toe game made in react 
+# Getting Started with Create React App
+
+to end: https://react.dev/learn/tutorial-tic-tac-toe#adding-time-travel
+
+npm start
+have fin 
